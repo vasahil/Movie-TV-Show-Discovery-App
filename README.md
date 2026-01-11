@@ -1,3 +1,11 @@
+APK is in the release section in the right side 
+
+OR
+
+You can use below Drive Link :
+https://drive.google.com/drive/folders/1bzxeeH7P6z9KfR_RymMIcnQ1O3zQ_uR8
+
+
 # 🎬 Movie & TV Show Discovery App
 
 An Android application built using **Jetpack Compose** that fetches Movies and TV Shows from the **Watchmode API**.  
